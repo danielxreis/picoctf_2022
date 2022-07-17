@@ -6,7 +6,8 @@ You can check every folder with the original files and the walkthrough I did to 
 
 ## Challenges
 
-1 - [Basic File Exploit](basic-file-exploit/README.MD)
+1. [basic-file-exploit](basic-file-exploit/README.MD)
+2. [basic-mod1](basic-mod1/)
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
