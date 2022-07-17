@@ -6,7 +6,7 @@ You can check every folder with the original files and the walktrough I did to g
 
 ## Challenges
 
-1 - [Basic File Exploit](01 - basic-file-exploit/basic-file-exploit.MD)
+[Basic File Exploit](01 - basic-file-exploit/basic-file-exploit.MD)
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
