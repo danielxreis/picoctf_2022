@@ -15,7 +15,7 @@ Wrap your decrypted message in the picoCTF flag format (i.e. picoCTF{decrypted_m
 
 Searching for "mod 37 decoder" on Google, I found [this website](https://www.dcode.fr/modulo-cipher). The page suggests that 'mod' is **Modulo Cipher**, within *Homophonic Substitution Cipher*. 
 
-In the link above, there is more explanation about how the **Modulo Cipher** works, in the end of this README, you will be find all the important links to solve this challenge.
+In the link above, there is more explanation about how the **Modulo Cipher** works, in the end of this README, you will find all the important links to solve this challenge.
 
 Basically, what we need to know to decrypt a modulo cipher is the Modulo number and the numbers we want to decode. In the page, I got more details about it:
 
