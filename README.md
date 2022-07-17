@@ -2,7 +2,7 @@
 
 Hello, my name is Daniel and I'm trying to do the challenges of PicoCTF 2022. 
 
-You can check every folder with the original files and the walktrough I did to get the solution.
+You can check every folder with the original files and the walkthrough I did to get the solution.
 
 ## Challenges
 
