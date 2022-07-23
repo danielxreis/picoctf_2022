@@ -36,9 +36,9 @@ def euclidean(Dividend, Divisor):
 
 message = [202, 137, 390, 235, 114, 369, 198, 110, 350, 396, 390, 383, 225, 258, 38, 291, 75, 324, 401, 142, 288, 397]
 
-alphabet = list(string.ascii_uppercase)
-decimals = [0,1,2,3,4,5,6,7,8,9]
-underscore = ["_"]
+alphabet = string.ascii_uppercase
+decimals = string.digits
+underscore = "_"
 
 decryptGuide = alphabet + decimals + underscore
 
@@ -62,12 +62,14 @@ print("picoCTF{" + result + "}")
 
 **Flag:** ``picoCTF{R0UND_N_R0UND_B6B25531}``
 
+## Update
+After watching the [John Hammond's solution](https://www.youtube.com/watch?v=nIB1IxK1FmY) to this code, I made a few improviments in to the code. I also learned better abou the modulus, must check it out. 
+
 ## References
 
 1. *Modulo Cipher* on dCode.fr [online website], retrieved on 2022-07-17, https://www.dcode.fr/modulo-cipher
 2. *Modulo N Calculator* on dCode.fr [online website], retrieved on 2022-07-17, https://www.dcode.fr/modulo-n-calculator
 3. *Euclidean Division* on dCode.fr [online website], retrieved on 2022-07-17, https://www.dcode.fr/euclidean-division
-
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
