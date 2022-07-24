@@ -8,10 +8,6 @@ def euclidean(Dividend, Divisor):
     Remainder = Dividend - Quotient * Divisor
     return Remainder
 
-#John's Solution
-def modulus(numero):
-    return numero % 37
-
 alphabet = string.ascii_uppercase
 decimals = string.digits
 underscore = "_"
@@ -19,9 +15,6 @@ underscore = "_"
 decryptGuide = alphabet + decimals + underscore
 
 result = ""
-for x in message:
-    result += str(decryptGuide[modulus(x)])
-    
 for x in message:
     result += str(decryptGuide[euclidean(x, 37)])
 
