@@ -63,7 +63,7 @@ print("picoCTF{" + result + "}")
 **Flag:** ``picoCTF{R0UND_N_R0UND_B6B25531}``
 
 ## Update
-After watching the [John Hammond's solution](https://www.youtube.com/watch?v=nIB1IxK1FmY) to this code, I made a few improviments in to the code. I also learned better abou the modulus, must check it out. 
+After watching the [John Hammond's solution](https://www.youtube.com/watch?v=nIB1IxK1FmY) to this code, I made a few improviments to the code. I also learned better abou the modulus, must check it out. 
 
 ## References
 
