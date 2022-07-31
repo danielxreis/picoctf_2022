@@ -25,7 +25,7 @@ Input: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 Aborted
 ```
 
-**Flag:** picoCTF{ov3rfl0ws_ar3nt_that_bad_8ba275ff}
+### **Flag:** `picoCTF{ov3rfl0ws_ar3nt_that_bad_8ba275ff}`
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher

@@ -34,7 +34,7 @@ with open ("message.txt") as file:
 print(f"picoCTF{{{result}}}")
 ```
 
-**Flag:** ``picoCTF{1NV3R53LY_H4RD_8A05D939}``
+### **Flag:** `picoCTF{1NV3R53LY_H4RD_8A05D939}`
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
