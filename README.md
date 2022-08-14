@@ -12,6 +12,8 @@ Hello, my name is Daniel and I'm doing the challenges of PicoCTF 2022. You can c
 6. [CVE-XXXX-XXXX](CVE-XXXX-XXXX/) - 30/07/2022
 7. [Enhance!](Enhance/) - 07/08/2022
 8. [file-run1](file-run1/) - 07/08/2022
+8. [file-run2](file-run2/) - 14/08/2022
+9. [File types](/File%20types/) - 14/08/2022
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher

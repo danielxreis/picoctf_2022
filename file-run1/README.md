@@ -1,7 +1,6 @@
 # file-run1
-Tags: Reverse Engeneering
+Tags: Reverse Engineering
 AUTHOR: WILL HONG
-
 
 Description
 A program has been provided to you, what happens if you try to run it on the command line?
@@ -9,7 +8,7 @@ Download the program [here](run).
 
 ## Solution
 
-In general, before we run anything in our system, we should check what is the content of a executable. Since this challenge is related to "Reverse Engeneering", I belive using `cat` or `head` commands or even opening the file in a text editor would be more prudent than just executing it without at least give a glance in the file's output.
+In general, before we run anything in our system, we should check what is the content of a executable. Since this challenge is related to "Reverse Engineering", I belive using `cat` or `head` commands or even opening the file in a text editor would be more prudent than just executing it withot at least give a glance in the file's output.
 
 Just opening the [run](run) with text editor and searching for "flag" was enough to find it. But, getting into more detailed answer:
 
@@ -36,7 +35,6 @@ After that, just type `./` the name of file to run it.
 It will return 
 
 `The flag is: picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}`
-
 
 ### **Flag:** `picoCTF{U51N6_Y0Ur_F1r57_F113_47cf2b7b}`
 
