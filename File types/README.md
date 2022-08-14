@@ -43,7 +43,7 @@ Here, I'll just write the steps I took till the last file.
 9. **lzip compressed data** - `lzip -d flag`
 10. **XZ compressed data** - `mv flag.out flag.xz && xz -d flag.xz`
 
-The final output is a ASCII text file, and it contents are the string below:
+The final output is a ASCII text file, and its content is the string below:
 
 ```
 7069636f4354467b66316c656e406d335f6d406e3170756c407431306e5f
