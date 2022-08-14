@@ -50,7 +50,7 @@ The final output is a ASCII text file, and its content is the string below:
 6630725f3062326375723137795f39353063346665657d0a
 ```
 
-This is hexadecimal type of text. The web you can find a lot of tools that will convert it to text and finally the flag.
+This is hexadecimal type of text. With a google, you can find a lot of tools that will convert it to text and finally the flag.
 
 ### Flag: `picoCTF{f1len@m3_m@n1pul@t10n_f0r_0b2cur17y_950c4fee}`
 
