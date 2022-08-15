@@ -18,7 +18,7 @@ $ gdb gdbme
 
 ## Solution
 
-GBD is well-knwon as GNU Debugger, its used to debugging in unix-systems and it supports programing languages like C, C++, Java and so more. This program allows you to see what is going on "inside" another program while it executes -- or what another program was doing at the moment it crashed.
+GBD is a GNU Debugger, its used to debugging programs in unix-systems and it supports programing languages like C, C++, Java and so more. This program allows you to see what is going on "inside" another program while it executes -- or what another program was doing at the moment it crashed.
 
 The challenge ask us to run a series of commands, the first one is `chmod +x`, we used this one before in others challenges. It will make the file executable. 
 
