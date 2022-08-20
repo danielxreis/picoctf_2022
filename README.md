@@ -11,7 +11,7 @@ You can check every folder with the original files and the walkthrough I did to 
 ### Binary Exploitation
 1. [basic-file-exploit](Binary%20Exploitation/basic-file-exploit/) - 17/072022
 2. [buffer overflow 0](Binary%20Exploitation/buffer%20overflow%200/) - 23/07/2022
-6. [CVE-XXXX-XXXX](Binary%20Exploitation/CVE-XXXX-XXXX/) - 30/07/2022
+3. [CVE-XXXX-XXXX](Binary%20Exploitation/CVE-XXXX-XXXX/) - 30/07/2022
 
 ### Cryptography
 1. [basic-mod1](Cryptography/basic-mod1/) - 17/072022
@@ -28,7 +28,7 @@ You can check every folder with the original files and the walkthrough I did to 
 3. [GBD Test Drive](Reverse%20Engineering//GBD%20Test%20Drive/) - 15/08/2022
 
 ### Web Exploitation
-12. [On includes](Web%20Exploitation/Includes/) - 19/08/2022
+12. [Includes](Web%20Exploitation/Includes/) - 19/08/2022
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
