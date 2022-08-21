@@ -28,7 +28,8 @@ You can check every folder with the original files and the walkthrough I did to 
 3. [GBD Test Drive](Reverse%20Engineering//GBD%20Test%20Drive/) - 15/08/2022
 
 ### Web Exploitation
-12. [Includes](Web%20Exploitation/Includes/) - 19/08/2022
+1. [Includes](Web%20Exploitation/Includes/) - 19/08/2022
+2. [Inspect HTML](Web%20Exploitation/Inspect%20HTML/) - 21/08/2022
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
