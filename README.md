@@ -17,10 +17,12 @@ You can check every folder with the original files and the walkthrough I did to 
 1. [basic-mod1](Cryptography/basic-mod1/) - 17/072022
 2. [basic-mod2](Cryptography/basic-mod2/) - 23/07/2022
 3. [credstuff](Cryptography/credstuff/) - 30/07/2022
+4. [morse-code](Cryptography/morse-code) - 27/08/2022
 
 ### Forensics
 1. [Enhance!](Forensics/Enhance/) - 07/08/2022
 2. [File types](Forensics//File%20types/) - 14/08/2022
+3. [Lookey here](Forensics/Lookey%20here) - 27/08/2022
 
 ### Reverse Engineering
 1. [file-run1](Reverse%20Engineering/file-run1/) - 07/08/2022
@@ -30,6 +32,7 @@ You can check every folder with the original files and the walkthrough I did to 
 ### Web Exploitation
 1. [Includes](Web%20Exploitation/Includes/) - 19/08/2022
 2. [Inspect HTML](Web%20Exploitation/Inspect%20HTML/) - 21/08/2022
+3. [Local Authority](Web%20Exploitation/Local%20Authority/) - 27/08/2022
 
 ---
 Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
