@@ -16,8 +16,8 @@ According to `man grep` page, this command prints lines that matches the pattern
 
 For a good tutorial for grep, check this [blog post](https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/).
 
-For me, I'll use grep with `-n` to I get the line where is any matches with the word 'pico' on it and the output the result to a file called flag.txt using `> flag.txt`
+For me, I'll use grep with `-o` to output only the matched query, `-E` to use regex patterns in my search - we will probably learn more about it in the near future - and then I'll use "picoCTF" with the following regex to find a pattern of flag and everything inside the curly braces `{.*?}`, finally the command `> flag.txt` the output the result to a file called flag.txt.
 
-`grep -n pico anthem.flag.txt > flag.txt`
+`grep -oE 'picoCTF{.*?}' anthem.flag.txt > flag.txt`
 
 ## **Flag**: `picoCTF{gr3p_15_@w3s0m3_2116b979}`
