@@ -23,11 +23,13 @@ You can check every folder with the original files and the walkthrough I did to 
 1. [Enhance!](Forensics/Enhance/) - 07/08/2022
 2. [File types](Forensics//File%20types/) - 14/08/2022
 3. [Lookey here](Forensics/Lookey%20here) - 27/08/2022
+4. [Packets Primer](Forensics/Packets%20Primer/) - 07/09/2022
 
 ### Reverse Engineering
 1. [file-run1](Reverse%20Engineering/file-run1/) - 07/08/2022
 2. [file-run2](Reverse%20Engineering/file-run2/) - 14/08/2022
 3. [GBD Test Drive](Reverse%20Engineering//GBD%20Test%20Drive/) - 15/08/2022
+4. [patchme.py](Reverse%20Engineering/patchme.py/) - 07/09/2022
 
 ### Web Exploitation
 1. [Includes](Web%20Exploitation/Includes/) - 19/08/2022

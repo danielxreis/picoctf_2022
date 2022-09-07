@@ -21,3 +21,6 @@ For me, I'll use grep with `-o` to output only the matched query, `-E` to use re
 `grep -oE 'picoCTF{.*?}' anthem.flag.txt > flag.txt`
 
 ## **Flag**: `picoCTF{gr3p_15_@w3s0m3_2116b979}`
+
+---
+Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher
