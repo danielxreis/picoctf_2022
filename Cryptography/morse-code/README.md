@@ -15,3 +15,6 @@ For this one, we could translante it by hearig using some guide in internet like
 **Result from Morsecode.world:** WH47 H47H 90D W20U9H7
 
 ## **Flag:** `picoCTF{WH47_H47H_90D_W20U9H7}`
+
+---
+Daniel Reis - [@danielxreis](https://twitter.com/DanielXReis) - Developer and Cyber Security Researcher

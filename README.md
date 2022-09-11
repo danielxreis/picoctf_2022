@@ -18,12 +18,14 @@ You can check every folder with the original files and the walkthrough I did to 
 2. [basic-mod2](Cryptography/basic-mod2/) - 23/07/2022
 3. [credstuff](Cryptography/credstuff/) - 30/07/2022
 4. [morse-code](Cryptography/morse-code) - 27/08/2022
+5. [rail-fence](Cryptography/rail-fence/) - 11/09/2022
 
 ### Forensics
 1. [Enhance!](Forensics/Enhance/) - 07/08/2022
 2. [File types](Forensics//File%20types/) - 14/08/2022
 3. [Lookey here](Forensics/Lookey%20here) - 27/08/2022
 4. [Packets Primer](Forensics/Packets%20Primer/) - 07/09/2022
+5. [Redaction gone wrong](./Forensics/Redaction%20gone%20wrong/) - 11/09/2022
 
 ### Reverse Engineering
 1. [file-run1](Reverse%20Engineering/file-run1/) - 07/08/2022
