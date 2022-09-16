@@ -14,7 +14,7 @@ You can check every folder with the original files and the walkthrough I did to 
 3. [CVE-XXXX-XXXX](Binary%20Exploitation/CVE-XXXX-XXXX/) - 30/07/2022
 
 ### Cryptography
-1. [basic-mod1](Cryptography/basic-mod1/) - 17/072022
+1. [basic-mod1](Cryptography/basic-mod1/) - 17/07/2022
 2. [basic-mod2](Cryptography/basic-mod2/) - 23/07/2022
 3. [credstuff](Cryptography/credstuff/) - 30/07/2022
 4. [morse-code](Cryptography/morse-code) - 27/08/2022
