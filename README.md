@@ -20,6 +20,8 @@ You can check every folder with the original files and the walkthrough I did to 
 4. [morse-code](Cryptography/morse-code) - 27/08/2022
 5. [rail-fence](Cryptography/rail-fence/) - 11/09/2022
 6. [substitution0](Cryptography/substitution0/) - 16/09/2022
+7. [substitution1](Cryptography/substitution1/) - 09/10/2022
+7. [substitution2](Cryptography/substitution2/) - 09/10/2022
 
 ### Forensics
 1. [Enhance!](Forensics/Enhance/) - 07/08/2022

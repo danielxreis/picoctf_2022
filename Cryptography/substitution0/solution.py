@@ -49,4 +49,4 @@ with open ("message.txt", 'r') as f:
 key, flag = message.split()[0], message.split()[-1]
 
 # Get the flag using the function above
-print(decodeFlag(flag, key))
+print(decodeFlag(message, key))
